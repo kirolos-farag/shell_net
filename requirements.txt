@@ -1,0 +1,6 @@
+prompt_toolkit
+colorama
+pathlib2
+subprocess32
+fnmatch
+shutil
